@@ -10,16 +10,23 @@ Desain yang saya buat menggunakan 1 Class Utama: Class Mahasiswa
 ## Class Mahasiswa :
 
 NIM -> NIM mahasiswa, string
+
 Nama -> Nama mahasiswa, string
+
 Nilai -> Nilai mahasiswa, string
+
 gender -> Gender mahasiswa, string
 
 ## Class Menu :
 
 Set Tabel -> Mengatur Tabel yang nanti ditampilkan
+
 Insert Data -> Memasukan data baru
+
 Update Data -> Mengubah data yang dipilih
+
 Delete Data -> Menghapus data yang dipilih
+
 Reset Form -> Menghapus isi dari form
 
 ## Semua Atribut dari kelas mahasiswa diatas dilengkapi dengan setter dan getternya
