@@ -46,4 +46,4 @@ Memilih data yang akan dirubah, baik ditext field atau combo box lalu klik updat
 Memilih data yang akan dihapus lalu klik delete
 
 ## Dokumentasi
-//isi gambar
+![Screenshot](https://github.com/basalamahalam/LATIHAN5DPBO2023/screenshoot/)
