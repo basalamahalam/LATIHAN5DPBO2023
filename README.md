@@ -32,7 +32,7 @@ Reset Form -> Menghapus isi dari form
 ## Semua Atribut dari kelas mahasiswa diatas dilengkapi dengan setter dan getternya
 
 ## Design GUI
-//isi dengan screenshot
+![Screenshot](https://github.com/basalamahalam/LATIHAN5DPBO2023/blob/main/screenshot/Screenshot%20(1073).png)
 
 ## Alur Program Program GUI
 Text field untuk mengisi data yang berisi nim, nama, nilai dan Combo box untuk memilih gender mahasiswa
@@ -46,4 +46,5 @@ Memilih data yang akan dirubah, baik ditext field atau combo box lalu klik updat
 Memilih data yang akan dihapus lalu klik delete
 
 ## Dokumentasi
-![Screenshot](https://github.com/basalamahalam/LATIHAN5DPBO2023/screenshoot/)
+![Screenshot](https://github.com/basalamahalam/LATIHAN5DPBO2023/blob/main/screenshot/Screenshot%20(1075).png)
+![Screenshot](https://github.com/basalamahalam/LATIHAN5DPBO2023/blob/main/screenshot/Screenshot%20(1076).png)
