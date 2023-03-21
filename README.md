@@ -1,6 +1,6 @@
-# Janji
+## Janji
 
-## Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan soal Latihan 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan soal Latihan 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Tugas LATIHAN5DPBO2023
 
