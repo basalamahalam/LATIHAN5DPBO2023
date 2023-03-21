@@ -38,8 +38,11 @@ Reset Form -> Menghapus isi dari form
 Text field untuk mengisi data yang berisi nim, nama, nilai dan Combo box untuk memilih gender mahasiswa
 
 Mengisi text field dan memlih gender jika user klik add maka akan menambah data dan seluruh data akan ditampilkan di tabel
+
 Mengisi text field dan memlih gender jika di klik reset maka TextField akan kosong
+
 Memilih data yang akan dirubah, baik ditext field atau combo box lalu klik update
+
 Memilih data yang akan dihapus lalu klik delete
 
 ## Dokumentasi
